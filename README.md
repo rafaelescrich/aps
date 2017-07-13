@@ -18,10 +18,6 @@ Totaly free to use, modify, sell, etc.
 - Sell and buy type of order
 - Stock preview
 
-## SCREENSHOTS
-
-See here: https://drive.google.com/drive/folders/0BxIbA3Gdn5AQa1ZMa2FHTlRPRms
-
 ## INSTALL
 
 ### REQUIREMENTS
