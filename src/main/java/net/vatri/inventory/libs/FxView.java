@@ -1,8 +1,8 @@
-package net.vatri.inventory.libs;
+package net.aps.inventory.libs;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.layout.Pane;
-import net.vatri.inventory.App;
+import net.aps.inventory.App;
 
 import java.net.URL;
 

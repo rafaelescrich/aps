@@ -1,4 +1,4 @@
-package net.vatri.inventory.controllers;
+package net.aps.inventory.controllers;
 
 import javafx.fxml.Initializable;
 import javafx.fxml.FXML;
@@ -14,10 +14,10 @@ import javafx.scene.control.Label;
 import javafx.scene.control.ComboBox;
 import javafx.collections.ObservableList;
 import javafx.collections.FXCollections;
-import net.vatri.inventory.App;
-import net.vatri.inventory.libs.BaseController;
-import net.vatri.inventory.models.Product;
-import net.vatri.inventory.models.ProductGroup;
+import net.aps.inventory.App;
+import net.aps.inventory.libs.BaseController;
+import net.aps.inventory.models.Product;
+import net.aps.inventory.models.ProductGroup;
 
 public class AddEditProductController extends BaseController implements Initializable {
 

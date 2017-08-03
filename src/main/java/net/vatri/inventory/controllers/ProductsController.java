@@ -1,4 +1,4 @@
-package net.vatri.inventory.controllers;
+package net.aps.inventory.controllers;
 
 import javafx.fxml.Initializable;
 import javafx.fxml.FXML;
@@ -15,9 +15,9 @@ import javafx.collections.ObservableList;
 import javafx.collections.FXCollections;
 import javafx.scene.control.cell.PropertyValueFactory;
 
-import net.vatri.inventory.App;
-import net.vatri.inventory.libs.BaseController;
-import net.vatri.inventory.models.Product;
+import net.aps.inventory.App;
+import net.aps.inventory.libs.BaseController;
+import net.aps.inventory.models.Product;
 
 public class ProductsController extends BaseController implements Initializable {
 

@@ -1,11 +1,11 @@
-package net.vatri.inventory.controllers;
+package net.aps.inventory.controllers;
 
-import net.vatri.inventory.App;
+import net.aps.inventory.App;
 
-import net.vatri.inventory.models.GroupVariant;
-import net.vatri.inventory.models.ProductGroup;
+import net.aps.inventory.models.GroupVariant;
+import net.aps.inventory.models.ProductGroup;
 
-import net.vatri.inventory.libs.BaseController;
+import net.aps.inventory.libs.BaseController;
 
 import javafx.fxml.Initializable;
 import javafx.fxml.FXML;

@@ -1,4 +1,4 @@
-package net.vatri.inventory.models;
+package net.aps.inventory.models;
 
 public class StockModel {
 

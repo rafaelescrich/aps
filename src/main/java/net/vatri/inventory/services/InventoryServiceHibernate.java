@@ -1,6 +1,6 @@
-package net.vatri.inventory.services;
+package net.aps.inventory.services;
 
-import net.vatri.inventory.models.*;
+import net.aps.inventory.models.*;
 import org.hibernate.Hibernate;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;

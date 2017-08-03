@@ -1,4 +1,4 @@
-package net.vatri.inventory.controllers;
+package net.aps.inventory.controllers;
 
 import javafx.fxml.Initializable;
 import javafx.fxml.FXML;
@@ -14,9 +14,9 @@ import java.util.ResourceBundle;
 import javafx.scene.control.cell.PropertyValueFactory;
 
 import javafx.scene.control.cell.TextFieldTableCell;
-import net.vatri.inventory.App;
-import net.vatri.inventory.libs.BaseController;
-import net.vatri.inventory.models.*;
+import net.aps.inventory.App;
+import net.aps.inventory.libs.BaseController;
+import net.aps.inventory.models.*;
 
 public class AddEditOrderController extends BaseController implements Initializable {
 

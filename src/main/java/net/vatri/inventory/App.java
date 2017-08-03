@@ -1,6 +1,6 @@
-package net.vatri.inventory;
+package net.aps.inventory;
 
-import net.vatri.inventory.libs.*;
+import net.aps.inventory.libs.*;
 
 import java.util.Arrays;
 import java.util.Map;

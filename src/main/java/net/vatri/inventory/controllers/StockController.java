@@ -1,8 +1,8 @@
-package net.vatri.inventory.controllers;
+package net.aps.inventory.controllers;
 
-import net.vatri.inventory.models.StockModel;
+import net.aps.inventory.models.StockModel;
 
-import net.vatri.inventory.libs.BaseController;
+import net.aps.inventory.libs.BaseController;
 
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;

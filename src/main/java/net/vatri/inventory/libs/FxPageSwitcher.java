@@ -1,4 +1,4 @@
-package net.vatri.inventory.libs;
+package net.aps.inventory.libs;
 
 import javafx.scene.layout.Pane;
 import java.util.List;

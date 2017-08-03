@@ -1,8 +1,8 @@
-package net.vatri.inventory.services;
+package net.aps.inventory.services;
 
 import junit.framework.TestCase;
-import net.vatri.inventory.models.GroupVariant;
-import net.vatri.inventory.models.ProductGroup;
+import net.aps.inventory.models.GroupVariant;
+import net.aps.inventory.models.ProductGroup;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 

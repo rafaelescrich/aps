@@ -1,13 +1,13 @@
-package net.vatri.inventory.controllers;
+package net.aps.inventory.controllers;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 import javafx.scene.control.PasswordField;
-import net.vatri.inventory.App;
-import net.vatri.inventory.libs.BaseController;
-import net.vatri.inventory.models.User;
+import net.aps.inventory.App;
+import net.aps.inventory.libs.BaseController;
+import net.aps.inventory.models.User;
 
 
 public class LoginController extends BaseController {

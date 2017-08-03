@@ -1,4 +1,4 @@
-package net.vatri.inventory.models;
+package net.aps.inventory.models;
 
 import javax.persistence.*;
 import java.util.ArrayList;

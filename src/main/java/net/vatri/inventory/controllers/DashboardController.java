@@ -1,4 +1,4 @@
-package net.vatri.inventory.controllers;
+package net.aps.inventory.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -8,7 +8,7 @@ import javafx.scene.chart.BarChart;
 import javafx.scene.chart.CategoryAxis;
 import javafx.scene.chart.NumberAxis;
 import javafx.scene.chart.XYChart;
-import net.vatri.inventory.libs.BaseController;
+import net.aps.inventory.libs.BaseController;
 import org.joda.time.LocalDate;
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;
