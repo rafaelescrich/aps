@@ -295,6 +295,474 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/main/resources/views/DashBoardView.fxml",
+			"settings":
+			{
+				"buffer_size": 2369,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/GroupsView.fxml",
+			"settings":
+			{
+				"buffer_size": 1347,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/LoginView.fxml",
+			"settings":
+			{
+				"buffer_size": 1723,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/Menu.fxml",
+			"settings":
+			{
+				"buffer_size": 1853,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/OrdersView.fxml",
+			"settings":
+			{
+				"buffer_size": 2098,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/ProductsView.fxml",
+			"settings":
+			{
+				"buffer_size": 1463,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/StockView.fxml",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/test/java/net/vatri/inventory/services/InventoryServiceHibernateTest.java",
+			"settings":
+			{
+				"buffer_size": 2232,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/hibernate.cfg.xml",
+			"settings":
+			{
+				"buffer_size": 1247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/AddEditGroupView.fxml",
+			"settings":
+			{
+				"buffer_size": 2591,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/AddEditOrderView.fxml",
+			"settings":
+			{
+				"buffer_size": 3944,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/AddEditProductView.fxml",
+			"settings":
+			{
+				"buffer_size": 2246,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/DashBoardView.fxml",
+			"settings":
+			{
+				"buffer_size": 2369,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/GroupsView.fxml",
+			"settings":
+			{
+				"buffer_size": 1347,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/LoginView.fxml",
+			"settings":
+			{
+				"buffer_size": 1723,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/Menu.fxml",
+			"settings":
+			{
+				"buffer_size": 1853,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/OrdersView.fxml",
+			"settings":
+			{
+				"buffer_size": 2098,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/ProductsView.fxml",
+			"settings":
+			{
+				"buffer_size": 1463,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/classes/views/StockView.fxml",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst",
+			"settings":
+			{
+				"buffer_size": 1523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst",
+			"settings":
+			{
+				"buffer_size": 3066,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 2268 files for \"vatri\"\n\n0 matches\n\nSearching 56 files for \"vatri\"\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/pom.xml:\n    3    <modelVersion>4.0.0</modelVersion>\n    4  \n    5:   <groupId>net.vatri</groupId>\n    6    <artifactId>invman</artifactId>\n    7    <packaging>jar</packaging>\n    .\n   32            </executions>\n   33            <configuration>\n   34:               <mainClass>net.vatri.inventory.App</mainClass>\n   35            </configuration>\n   36          </plugin>\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/App.java:\n    1: package net.vatri.inventory;\n    2  \n    3: import net.vatri.inventory.libs.*;\n    4  \n    5  import java.util.Arrays;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/AddEditGroupController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3: import net.vatri.inventory.App;\n    4  \n    5: import net.vatri.inventory.models.GroupVariant;\n    6: import net.vatri.inventory.models.ProductGroup;\n    7  \n    8: import net.vatri.inventory.libs.BaseController;\n    9  \n   10  import javafx.fxml.Initializable;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/AddEditOrderController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3  import javafx.fxml.Initializable;\n    .\n   15  \n   16  import javafx.scene.control.cell.TextFieldTableCell;\n   17: import net.vatri.inventory.App;\n   18: import net.vatri.inventory.libs.BaseController;\n   19: import net.vatri.inventory.models.*;\n   20  \n   21  public class AddEditOrderController extends BaseController implements Initializable {\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/AddEditProductController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3  import javafx.fxml.Initializable;\n    .\n   15  import javafx.collections.ObservableList;\n   16  import javafx.collections.FXCollections;\n   17: import net.vatri.inventory.App;\n   18: import net.vatri.inventory.libs.BaseController;\n   19: import net.vatri.inventory.models.Product;\n   20: import net.vatri.inventory.models.ProductGroup;\n   21  \n   22  public class AddEditProductController extends BaseController implements Initializable {\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/DashboardController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3  import javafx.fxml.FXML;\n    .\n    9  import javafx.scene.chart.NumberAxis;\n   10  import javafx.scene.chart.XYChart;\n   11: import net.vatri.inventory.libs.BaseController;\n   12  import org.joda.time.LocalDate;\n   13  import org.joda.time.format.DateTimeFormat;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/GroupsController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3  import javafx.fxml.Initializable;\n    .\n   15  import javafx.scene.control.cell.PropertyValueFactory;\n   16  \n   17: import net.vatri.inventory.App;\n   18: import net.vatri.inventory.libs.BaseController;\n   19: import net.vatri.inventory.models.ProductGroup;\n   20  \n   21  public class GroupsController extends BaseController implements Initializable {\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/LoginController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3  import javafx.event.ActionEvent;\n    .\n    6  import javafx.scene.control.TextField;\n    7  import javafx.scene.control.PasswordField;\n    8: import net.vatri.inventory.App;\n    9: import net.vatri.inventory.libs.BaseController;\n   10: import net.vatri.inventory.models.User;\n   11  \n   12  \n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/MenuController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3: import net.vatri.inventory.App;\n    4  \n    5  import javafx.event.ActionEvent;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/OrdersController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3  import javafx.collections.ObservableList;\n    .\n   14  import javafx.scene.control.TableView;\n   15  import javafx.scene.control.cell.PropertyValueFactory;\n   16: import net.vatri.inventory.App;\n   17: import net.vatri.inventory.libs.BaseController;\n   18: import net.vatri.inventory.models.Order;\n   19  \n   20  import java.util.Map;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/ProductsController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3  import javafx.fxml.Initializable;\n    .\n   16  import javafx.scene.control.cell.PropertyValueFactory;\n   17  \n   18: import net.vatri.inventory.App;\n   19: import net.vatri.inventory.libs.BaseController;\n   20: import net.vatri.inventory.models.Product;\n   21  \n   22  public class ProductsController extends BaseController implements Initializable {\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/StockController.java:\n    1: package net.vatri.inventory.controllers;\n    2  \n    3: import net.vatri.inventory.models.StockModel;\n    4  \n    5: import net.vatri.inventory.libs.BaseController;\n    6  \n    7  import javafx.collections.FXCollections;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/BaseController.java:\n    1: package net.vatri.inventory.libs;\n    2  \n    3: import net.vatri.inventory.App;\n    4: import net.vatri.inventory.services.InventoryService;\n    5: import net.vatri.inventory.services.InventoryServiceHibernate;\n    6  \n    7  public abstract class BaseController {\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/FxPage.java:\n    1: package net.vatri.inventory.libs;\n    2  \n    3  public class FxPage{\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/FxPageSwitcher.java:\n    1: package net.vatri.inventory.libs;\n    2  \n    3  import javafx.scene.layout.Pane;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/FxView.java:\n    1: package net.vatri.inventory.libs;\n    2  \n    3  import javafx.fxml.FXMLLoader;\n    4  import javafx.scene.layout.Pane;\n    5: import net.vatri.inventory.App;\n    6  \n    7  import java.net.URL;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/IMainPane.java:\n    1: package net.vatri.inventory.libs;\n    2  \n    3  import javafx.scene.Node;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/GroupVariant.java:\n    1: package net.vatri.inventory.models;\n    2  \n    3  import javax.persistence.*;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/Order.java:\n    1: package net.vatri.inventory.models;\n    2  \n    3  import javax.persistence.*;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/OrderItem.java:\n    1: package net.vatri.inventory.models;\n    2  \n    3  import javax.persistence.*;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/Product.java:\n    1: package net.vatri.inventory.models;\n    2  \n    3  import javax.persistence.*;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/ProductGroup.java:\n    1: package net.vatri.inventory.models;\n    2  \n    3  import javax.persistence.*;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/StockModel.java:\n    1: package net.vatri.inventory.models;\n    2  \n    3  public class StockModel {\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/User.java:\n    1: package net.vatri.inventory.models;\n    2  \n    3  import javax.persistence.*;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/services/InventoryService.java:\n    1: package net.vatri.inventory.services;\n    2  \n    3: import net.vatri.inventory.models.*;\n    4  \n    5  import java.util.List;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/services/InventoryServiceHibernate.java:\n    1: package net.vatri.inventory.services;\n    2  \n    3: import net.vatri.inventory.models.*;\n    4  import org.hibernate.Hibernate;\n    5  import org.hibernate.HibernateException;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/hibernate.cfg.xml:\n   14          <property name=\"show_sql\">false</property>\n   15  \n   16:         <mapping class=\"net.vatri.inventory.models.Product\"></mapping>\n   17:         <mapping class=\"net.vatri.inventory.models.ProductGroup\"></mapping>\n   18:         <mapping class=\"net.vatri.inventory.models.GroupVariant\"></mapping>\n   19:         <mapping class=\"net.vatri.inventory.models.User\"></mapping>\n   20:         <mapping class=\"net.vatri.inventory.models.Order\"></mapping>\n   21:         <mapping class=\"net.vatri.inventory.models.OrderItem\"></mapping>\n   22  \n   23      </session-factory>\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/AddEditGroupView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" onKeyPressed=\"#hideLabels\" onMouseClicked=\"#hideLabels\" prefHeight=\"500.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.AddEditGroupController\">\n   12    <children>\n   13      <Label layoutX=\"16.0\" layoutY=\"27.0\" text=\"Group\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/AddEditOrderView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"630.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.AddEditOrderController\">\n   12    <children>\n   13      <Label layoutX=\"16.0\" layoutY=\"14.0\" text=\"Order\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/AddEditProductView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" onKeyPressed=\"#hideLabels\" onMouseClicked=\"#hideLabels\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.AddEditProductController\">\n   12    <children>\n   13      <Label layoutX=\"16.0\" layoutY=\"27.0\" text=\"Product\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/DashBoardView.fxml:\n   10  <?import javafx.scene.text.*?>\n   11  \n   12: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns=\"http://javafx.com/javafx/8\" xmlns:fx=\"http://javafx.com/fxml/1\" fx:controller=\"net.vatri.inventory.controllers.DashboardController\">\n   13    <children>\n   14      <Rectangle arcHeight=\"5.0\" arcWidth=\"5.0\" fill=\"#dfdfdf\" height=\"71.0\" layoutX=\"14.0\" layoutY=\"53.0\" stroke=\"BLACK\" strokeType=\"INSIDE\" width=\"167.0\" />\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/GroupsView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"665.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.GroupsController\">\n   11    <children>\n   12      <TableView id=\"table-products\" fx:id=\"tblGroups\" focusTraversable=\"true\" layoutX=\"52.0\" layoutY=\"91.0\" onMouseClicked=\"#openGroup\" prefHeight=\"280.0\" prefWidth=\"447.0\" rotate=\"0.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/LoginView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.LoginController\">\n   11    <children>\n   12      <Label layoutY=\"93.0\" text=\"Login\" AnchorPane.leftAnchor=\"250.5\" AnchorPane.rightAnchor=\"259.5\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/Menu.fxml:\n    8  <?import javafx.scene.paint.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"178.0\" style=\"-fx-background-color: #333;&#10;-fx-pref-height: 600px; &#10;\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.MenuController\">\n   11    <children>\n   12      <VBox layoutX=\"14.0\" layoutY=\"14.0\" prefHeight=\"372.0\" prefWidth=\"150.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/OrdersView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"665.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.OrdersController\">\n   12    <children>\n   13      <TableView id=\"\" fx:id=\"tblOrders\" focusTraversable=\"true\" layoutX=\"16.0\" layoutY=\"122.0\" onMouseClicked=\"#openOrder\" prefHeight=\"255.0\" prefWidth=\"600.0\" rotate=\"0.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/ProductsView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"665.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.ProductsController\">\n   11    <children>\n   12      <TableView id=\"table-products\" fx:id=\"tblProducts\" focusTraversable=\"true\" layoutX=\"14.0\" layoutY=\"63.0\" onMouseClicked=\"#openProduct\" prefHeight=\"280.0\" prefWidth=\"599.0\" rotate=\"0.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views/StockView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.StockController\">\n   11    <children>\n   12      <Label layoutX=\"16.0\" layoutY=\"27.0\" text=\"Stock\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/src/test/java/net/vatri/inventory/services/InventoryServiceHibernateTest.java:\n    1: package net.vatri.inventory.services;\n    2  \n    3  import junit.framework.TestCase;\n    4: import net.vatri.inventory.models.GroupVariant;\n    5: import net.vatri.inventory.models.ProductGroup;\n    6  import org.hibernate.Session;\n    7  import org.hibernate.SessionFactory;\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/hibernate.cfg.xml:\n   14          <property name=\"show_sql\">false</property>\n   15  \n   16:         <mapping class=\"net.vatri.inventory.models.Product\"></mapping>\n   17:         <mapping class=\"net.vatri.inventory.models.ProductGroup\"></mapping>\n   18:         <mapping class=\"net.vatri.inventory.models.GroupVariant\"></mapping>\n   19:         <mapping class=\"net.vatri.inventory.models.User\"></mapping>\n   20:         <mapping class=\"net.vatri.inventory.models.Order\"></mapping>\n   21:         <mapping class=\"net.vatri.inventory.models.OrderItem\"></mapping>\n   22  \n   23      </session-factory>\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/AddEditGroupView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" onKeyPressed=\"#hideLabels\" onMouseClicked=\"#hideLabels\" prefHeight=\"500.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.AddEditGroupController\">\n   12    <children>\n   13      <Label layoutX=\"16.0\" layoutY=\"27.0\" text=\"Group\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/AddEditOrderView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"630.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.AddEditOrderController\">\n   12    <children>\n   13      <Label layoutX=\"16.0\" layoutY=\"14.0\" text=\"Order\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/AddEditProductView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" onKeyPressed=\"#hideLabels\" onMouseClicked=\"#hideLabels\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.AddEditProductController\">\n   12    <children>\n   13      <Label layoutX=\"16.0\" layoutY=\"27.0\" text=\"Product\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/DashBoardView.fxml:\n   10  <?import javafx.scene.text.*?>\n   11  \n   12: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns=\"http://javafx.com/javafx/8\" xmlns:fx=\"http://javafx.com/fxml/1\" fx:controller=\"net.vatri.inventory.controllers.DashboardController\">\n   13    <children>\n   14      <Rectangle arcHeight=\"5.0\" arcWidth=\"5.0\" fill=\"#dfdfdf\" height=\"71.0\" layoutX=\"14.0\" layoutY=\"53.0\" stroke=\"BLACK\" strokeType=\"INSIDE\" width=\"167.0\" />\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/GroupsView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"665.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.GroupsController\">\n   11    <children>\n   12      <TableView id=\"table-products\" fx:id=\"tblGroups\" focusTraversable=\"true\" layoutX=\"52.0\" layoutY=\"91.0\" onMouseClicked=\"#openGroup\" prefHeight=\"280.0\" prefWidth=\"447.0\" rotate=\"0.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/LoginView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.LoginController\">\n   11    <children>\n   12      <Label layoutY=\"93.0\" text=\"Login\" AnchorPane.leftAnchor=\"250.5\" AnchorPane.rightAnchor=\"259.5\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/Menu.fxml:\n    8  <?import javafx.scene.paint.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"178.0\" style=\"-fx-background-color: #333;&#10;-fx-pref-height: 600px; &#10;\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.MenuController\">\n   11    <children>\n   12      <VBox layoutX=\"14.0\" layoutY=\"14.0\" prefHeight=\"372.0\" prefWidth=\"150.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/OrdersView.fxml:\n    9  <?import javafx.scene.text.*?>\n   10  \n   11: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"665.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.OrdersController\">\n   12    <children>\n   13      <TableView id=\"\" fx:id=\"tblOrders\" focusTraversable=\"true\" layoutX=\"16.0\" layoutY=\"122.0\" onMouseClicked=\"#openOrder\" prefHeight=\"255.0\" prefWidth=\"600.0\" rotate=\"0.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/ProductsView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"665.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.ProductsController\">\n   11    <children>\n   12      <TableView id=\"table-products\" fx:id=\"tblProducts\" focusTraversable=\"true\" layoutX=\"14.0\" layoutY=\"63.0\" onMouseClicked=\"#openProduct\" prefHeight=\"280.0\" prefWidth=\"599.0\" rotate=\"0.0\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/classes/views/StockView.fxml:\n    8  <?import javafx.scene.text.*?>\n    9  \n   10: <AnchorPane id=\"AnchorPane\" maxHeight=\"-Infinity\" maxWidth=\"-Infinity\" minHeight=\"-Infinity\" minWidth=\"-Infinity\" prefHeight=\"400.0\" prefWidth=\"600.0\" xmlns:fx=\"http://javafx.com/fxml/1\" xmlns=\"http://javafx.com/javafx/2.2\" fx:controller=\"net.vatri.inventory.controllers.StockController\">\n   11    <children>\n   12      <Label layoutX=\"16.0\" layoutY=\"27.0\" text=\"Stock\">\n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst:\n    1  org/hibernate/dialect/SQLiteDialect$SQLiteUniqueDelegate.class\n    2: net/vatri/inventory/App.class\n    3: net/vatri/inventory/controllers/DashboardController.class\n    4: net/vatri/inventory/libs/BaseController.class\n    5: net/vatri/inventory/models/GroupVariant.class\n    6: net/vatri/inventory/controllers/AddEditOrderController.class\n    7: net/vatri/inventory/controllers/MenuController.class\n    8: net/vatri/inventory/controllers/ProductsController.class\n    9: net/vatri/inventory/libs/IMainPane.class\n   10  org/hibernate/dialect/SQLiteDialect.class\n   11  org/hibernate/dialect/identity/SQLiteDialectIdentityColumnSupport.class\n   12  org/hibernate/dialect/SQLiteDialect$2.class\n   13: net/vatri/inventory/models/OrderItem.class\n   14: net/vatri/inventory/controllers/StockController.class\n   15: net/vatri/inventory/models/User.class\n   16: net/vatri/inventory/models/StockModel.class\n   17  org/hibernate/dialect/SQLiteDialect$4.class\n   18: net/vatri/inventory/libs/FxPageSwitcher.class\n   19: net/vatri/inventory/models/Order.class\n   20: net/vatri/inventory/services/InventoryService.class\n   21: net/vatri/inventory/controllers/LoginController.class\n   22: net/vatri/inventory/controllers/AddEditGroupController.class\n   23: net/vatri/inventory/services/InventoryServiceHibernate.class\n   24: net/vatri/inventory/libs/FxView.class\n   25: net/vatri/inventory/libs/FxPage.class\n   26  org/hibernate/dialect/SQLiteDialect$1.class\n   27: net/vatri/inventory/models/Product.class\n   28: net/vatri/inventory/controllers/GroupsController.class\n   29: net/vatri/inventory/controllers/AddEditProductController.class\n   30  org/hibernate/dialect/SQLiteDialect$3.class\n   31: net/vatri/inventory/controllers/OrdersController.class\n   32: net/vatri/inventory/models/ProductGroup.class\n   33  \n\n/home/rafael/UFSC/sistemas de informação/aps/projeto/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst:\n    1: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/FxPage.java\n    2: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/ProductGroup.java\n    3  /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/org/hibernate/dialect/SQLiteDialect.java\n    4  /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/org/hibernate/dialect/identity/SQLiteDialectIdentityColumnSupport.java\n    5: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/BaseController.java\n    6: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/OrderItem.java\n    7: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/Product.java\n    8: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/AddEditGroupController.java\n    9: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/GroupVariant.java\n   10: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/User.java\n   11: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/FxPageSwitcher.java\n   12: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/GroupsController.java\n   13: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/services/InventoryServiceHibernate.java\n   14: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/App.java\n   15: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/MenuController.java\n   16: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/FxView.java\n   17: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/StockModel.java\n   18: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/DashboardController.java\n   19: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/LoginController.java\n   20: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/ProductsController.java\n   21: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/OrdersController.java\n   22: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/AddEditOrderController.java\n   23: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/StockController.java\n   24: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/services/InventoryService.java\n   25: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/libs/IMainPane.java\n   26: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers/AddEditProductController.java\n   27: /home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models/Order.java\n   28  \n\n146 matches across 51 files\n",
+			"settings":
+			{
+				"buffer_size": 27817,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "pom.xml",
+			"settings":
+			{
+				"buffer_size": 2160,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/App.java",
+			"settings":
+			{
+				"buffer_size": 3642,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/AddEditGroupController.java",
+			"settings":
+			{
+				"buffer_size": 4013,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/AddEditOrderController.java",
+			"settings":
+			{
+				"buffer_size": 6698,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/AddEditProductController.java",
+			"settings":
+			{
+				"buffer_size": 3568,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/DashboardController.java",
+			"settings":
+			{
+				"buffer_size": 2396,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/GroupsController.java",
+			"settings":
+			{
+				"buffer_size": 1907,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/LoginController.java",
+			"settings":
+			{
+				"buffer_size": 843,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/MenuController.java",
+			"settings":
+			{
+				"buffer_size": 619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/OrdersController.java",
+			"settings":
+			{
+				"buffer_size": 3019,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/ProductsController.java",
+			"settings":
+			{
+				"buffer_size": 2020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/controllers/StockController.java",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/libs/BaseController.java",
+			"settings":
+			{
+				"buffer_size": 334,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/libs/FxPage.java",
+			"settings":
+			{
+				"buffer_size": 494,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/libs/FxPageSwitcher.java",
+			"settings":
+			{
+				"buffer_size": 951,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/libs/FxView.java",
+			"settings":
+			{
+				"buffer_size": 789,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/libs/IMainPane.java",
+			"settings":
+			{
+				"buffer_size": 122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/models/GroupVariant.java",
+			"settings":
+			{
+				"buffer_size": 848,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/models/Order.java",
+			"settings":
+			{
+				"buffer_size": 2189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/models/OrderItem.java",
+			"settings":
+			{
+				"buffer_size": 1229,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/models/Product.java",
+			"settings":
+			{
+				"buffer_size": 1120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/models/ProductGroup.java",
+			"settings":
+			{
+				"buffer_size": 1445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/models/StockModel.java",
+			"settings":
+			{
+				"buffer_size": 860,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/models/User.java",
+			"settings":
+			{
+				"buffer_size": 1289,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/services/InventoryService.java",
+			"settings":
+			{
+				"buffer_size": 1000,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/net/vatri/inventory/services/InventoryServiceHibernate.java",
+			"settings":
+			{
+				"buffer_size": 9583,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/hibernate.cfg.xml",
+			"settings":
+			{
+				"buffer_size": 1247,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/AddEditGroupView.fxml",
+			"settings":
+			{
+				"buffer_size": 2591,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/AddEditOrderView.fxml",
+			"settings":
+			{
+				"buffer_size": 3944,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/resources/views/AddEditProductView.fxml",
+			"settings":
+			{
+				"buffer_size": 2246,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -331,6 +799,7 @@
 		"height": 139.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
 			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
@@ -345,10 +814,22 @@
 	},
 	"expanded_folders":
 	[
-		"/home/rafael/UFSC/sistemas de informação/aps/projeto"
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/controllers",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/net/vatri/inventory/models",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/java/org",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources",
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/src/main/resources/views"
 	],
 	"file_history":
 	[
+		"/home/rafael/UFSC/sistemas de informação/aps/projeto/db.sqlite3",
 		"/home/rafael/biti/SULCREDIBANKING/www/templates/directives/billet-payment.html",
 		"/home/rafael/biti/SULCREDIBANKING/www/templates/directives/partner-payment.html",
 		"/home/rafael/biti/bkp-smo/SULCREDIBANKING/www/templates/modals/payments/modal-receipt-payment.html",
@@ -475,8 +956,7 @@
 		"/home/rafael/biti/SULCREDIBANKING/www/templates/modals/modal-extract-month.html",
 		"/home/rafael/biti/SULCREDIBANKING/www/templates/modals/modal-new-internal-transfer.html",
 		"/home/rafael/biti/SULCREDIBANKING/www/templates/modals/modal-new-ted.html",
-		"/home/rafael/biti/e-banking/config/database.yaml",
-		"/home/rafael/biti/e-gerente/db/schema.rb"
+		"/home/rafael/biti/e-banking/config/database.yaml"
 	],
 	"find":
 	{
@@ -487,6 +967,7 @@
 		"height": 199.0,
 		"where_history":
 		[
+			"<open folders>",
 			"/home/rafael/biti/SULCREDIBANKING/www/",
 			"/home/rafael/biti/SULCREDIBANKING/www/templates",
 			"/home/rafael/biti/SULCREDIBANKING/www/",
@@ -548,6 +1029,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"vatri",
 			"vm.setfi",
 			"getPayments",
 			"vm.show",
@@ -674,8 +1156,7 @@
 			"Minha página",
 			"b-b-gray",
 			"users/statements",
-			"extract",
-			"SAIR"
+			"extract"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -683,6 +1164,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"aps",
 			"$rootScope.showAlert",
 			"left",
 			"update-password",
@@ -697,8 +1179,2157 @@
 	"groups":
 	[
 		{
+			"selected": 32,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/main/resources/views/DashBoardView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/resources/views/GroupsView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/resources/views/LoginView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main/resources/views/Menu.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/main/resources/views/OrdersView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/main/resources/views/ProductsView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/main/resources/views/StockView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/test/java/net/vatri/inventory/services/InventoryServiceHibernateTest.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "target/classes/hibernate.cfg.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "target/classes/views/AddEditGroupView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "target/classes/views/AddEditOrderView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "target/classes/views/AddEditProductView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "target/classes/views/DashBoardView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "target/classes/views/GroupsView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "target/classes/views/LoginView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "target/classes/views/Menu.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "target/classes/views/OrdersView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "target/classes/views/ProductsView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "target/classes/views/StockView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27817,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										213,
+										218
+									],
+									[
+										412,
+										417
+									],
+									[
+										620,
+										625
+									],
+									[
+										663,
+										668
+									],
+									[
+										875,
+										880
+									],
+									[
+										930,
+										935
+									],
+									[
+										977,
+										982
+									],
+									[
+										1032,
+										1037
+									],
+									[
+										1095,
+										1100
+									],
+									[
+										1329,
+										1334
+									],
+									[
+										1499,
+										1504
+									],
+									[
+										1538,
+										1543
+									],
+									[
+										1593,
+										1598
+									],
+									[
+										1870,
+										1875
+									],
+									[
+										2069,
+										2074
+									],
+									[
+										2108,
+										2113
+									],
+									[
+										2163,
+										2168
+									],
+									[
+										2213,
+										2218
+									],
+									[
+										2498,
+										2503
+									],
+									[
+										2678,
+										2683
+									],
+									[
+										2947,
+										2952
+									],
+									[
+										3119,
+										3124
+									],
+									[
+										3158,
+										3163
+									],
+									[
+										3213,
+										3218
+									],
+									[
+										3486,
+										3491
+									],
+									[
+										3683,
+										3688
+									],
+									[
+										3722,
+										3727
+									],
+									[
+										3777,
+										3782
+									],
+									[
+										3962,
+										3967
+									],
+									[
+										4017,
+										4022
+									],
+									[
+										4228,
+										4233
+									],
+									[
+										4446,
+										4451
+									],
+									[
+										4485,
+										4490
+									],
+									[
+										4540,
+										4545
+									],
+									[
+										4751,
+										4756
+									],
+									[
+										4923,
+										4928
+									],
+									[
+										4962,
+										4967
+									],
+									[
+										5017,
+										5022
+									],
+									[
+										5287,
+										5292
+									],
+									[
+										5342,
+										5347
+									],
+									[
+										5403,
+										5408
+									],
+									[
+										5629,
+										5634
+									],
+									[
+										5677,
+										5682
+									],
+									[
+										5716,
+										5721
+									],
+									[
+										5777,
+										5782
+									],
+									[
+										6008,
+										6013
+									],
+									[
+										6199,
+										6204
+									],
+									[
+										6394,
+										6399
+									],
+									[
+										6520,
+										6525
+									],
+									[
+										6705,
+										6710
+									],
+									[
+										6901,
+										6906
+									],
+									[
+										7094,
+										7099
+									],
+									[
+										7291,
+										7296
+									],
+									[
+										7486,
+										7491
+									],
+									[
+										7686,
+										7691
+									],
+									[
+										7884,
+										7889
+									],
+									[
+										8074,
+										8079
+									],
+									[
+										8280,
+										8285
+									],
+									[
+										8332,
+										8337
+									],
+									[
+										8544,
+										8549
+									],
+									[
+										8596,
+										8601
+									],
+									[
+										8902,
+										8907
+									],
+									[
+										8980,
+										8985
+									],
+									[
+										9063,
+										9068
+									],
+									[
+										9146,
+										9151
+									],
+									[
+										9221,
+										9226
+									],
+									[
+										9297,
+										9302
+									],
+									[
+										9834,
+										9839
+									],
+									[
+										10367,
+										10372
+									],
+									[
+										10958,
+										10963
+									],
+									[
+										11490,
+										11495
+									],
+									[
+										12116,
+										12121
+									],
+									[
+										12767,
+										12772
+									],
+									[
+										13398,
+										13403
+									],
+									[
+										13940,
+										13945
+									],
+									[
+										14581,
+										14586
+									],
+									[
+										15238,
+										15243
+									],
+									[
+										15518,
+										15523
+									],
+									[
+										15610,
+										15615
+									],
+									[
+										15665,
+										15670
+									],
+									[
+										15972,
+										15977
+									],
+									[
+										16050,
+										16055
+									],
+									[
+										16133,
+										16138
+									],
+									[
+										16216,
+										16221
+									],
+									[
+										16291,
+										16296
+									],
+									[
+										16367,
+										16372
+									],
+									[
+										16900,
+										16905
+									],
+									[
+										17429,
+										17434
+									],
+									[
+										18016,
+										18021
+									],
+									[
+										18544,
+										18549
+									],
+									[
+										19166,
+										19171
+									],
+									[
+										19813,
+										19818
+									],
+									[
+										20440,
+										20445
+									],
+									[
+										20978,
+										20983
+									],
+									[
+										21615,
+										21620
+									],
+									[
+										22268,
+										22273
+									],
+									[
+										22615,
+										22620
+									],
+									[
+										22652,
+										22657
+									],
+									[
+										22717,
+										22722
+									],
+									[
+										22770,
+										22775
+									],
+									[
+										22823,
+										22828
+									],
+									[
+										22891,
+										22896
+									],
+									[
+										22951,
+										22956
+									],
+									[
+										23015,
+										23020
+									],
+									[
+										23242,
+										23247
+									],
+									[
+										23292,
+										23297
+									],
+									[
+										23353,
+										23358
+									],
+									[
+										23398,
+										23403
+									],
+									[
+										23500,
+										23505
+									],
+									[
+										23553,
+										23558
+									],
+									[
+										23599,
+										23604
+									],
+									[
+										23658,
+										23663
+									],
+									[
+										23719,
+										23724
+									],
+									[
+										23787,
+										23792
+									],
+									[
+										23855,
+										23860
+									],
+									[
+										23900,
+										23905
+									],
+									[
+										23996,
+										24001
+									],
+									[
+										24044,
+										24049
+									],
+									[
+										24106,
+										24111
+									],
+									[
+										24227,
+										24232
+									],
+									[
+										24289,
+										24294
+									],
+									[
+										24553,
+										24558
+									],
+									[
+										24664,
+										24669
+									],
+									[
+										25043,
+										25048
+									],
+									[
+										25162,
+										25167
+									],
+									[
+										25278,
+										25283
+									],
+									[
+										25392,
+										25397
+									],
+									[
+										25526,
+										25531
+									],
+									[
+										25645,
+										25650
+									],
+									[
+										25756,
+										25761
+									],
+									[
+										25875,
+										25880
+									],
+									[
+										26003,
+										26008
+									],
+									[
+										26137,
+										26142
+									],
+									[
+										26240,
+										26245
+									],
+									[
+										26366,
+										26371
+									],
+									[
+										26477,
+										26482
+									],
+									[
+										26594,
+										26599
+									],
+									[
+										26725,
+										26730
+									],
+									[
+										26852,
+										26857
+									],
+									[
+										26982,
+										26987
+									],
+									[
+										27110,
+										27115
+									],
+									[
+										27244,
+										27249
+									],
+									[
+										27371,
+										27376
+									],
+									[
+										27496,
+										27501
+									],
+									[
+										27610,
+										27615
+									],
+									[
+										27746,
+										27751
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 51,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "pom.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 50,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "src/main/java/net/vatri/inventory/App.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3642,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1782.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "src/main/java/net/vatri/inventory/controllers/AddEditGroupController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 49,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "src/main/java/net/vatri/inventory/controllers/AddEditOrderController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 48,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "src/main/java/net/vatri/inventory/controllers/AddEditProductController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 47,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "src/main/java/net/vatri/inventory/controllers/DashboardController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 46,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "src/main/java/net/vatri/inventory/controllers/GroupsController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1907,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 45,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "src/main/java/net/vatri/inventory/controllers/LoginController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "src/main/java/net/vatri/inventory/controllers/MenuController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 44,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "src/main/java/net/vatri/inventory/controllers/OrdersController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 43,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "src/main/java/net/vatri/inventory/controllers/ProductsController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2020,
+								2020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "src/main/java/net/vatri/inventory/controllers/StockController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 42,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "src/main/java/net/vatri/inventory/libs/BaseController.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 41,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "src/main/java/net/vatri/inventory/libs/FxPage.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 40,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "src/main/java/net/vatri/inventory/libs/FxPageSwitcher.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "src/main/java/net/vatri/inventory/libs/FxView.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 38,
+					"file": "src/main/java/net/vatri/inventory/libs/IMainPane.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 39,
+					"file": "src/main/java/net/vatri/inventory/models/GroupVariant.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 40,
+					"file": "src/main/java/net/vatri/inventory/models/Order.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 41,
+					"file": "src/main/java/net/vatri/inventory/models/OrderItem.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1229,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 42,
+					"file": "src/main/java/net/vatri/inventory/models/Product.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 43,
+					"file": "src/main/java/net/vatri/inventory/models/ProductGroup.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 44,
+					"file": "src/main/java/net/vatri/inventory/models/StockModel.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 45,
+					"file": "src/main/java/net/vatri/inventory/models/User.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 46,
+					"file": "src/main/java/net/vatri/inventory/services/InventoryService.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 47,
+					"file": "src/main/java/net/vatri/inventory/services/InventoryServiceHibernate.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 48,
+					"file": "src/main/resources/hibernate.cfg.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 49,
+					"file": "src/main/resources/views/AddEditGroupView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2591,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 50,
+					"file": "src/main/resources/views/AddEditOrderView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 51,
+					"file": "src/main/resources/views/AddEditProductView.fxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1299,7 +3930,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 156.0,
+	"side_bar_width": 298.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

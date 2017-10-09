@@ -1,22 +1,19 @@
-# Gerência de inventário
+# Gerência de venda de ticket de Cinema
 
-Simple desktop multi-platform JavaFX inventory management application.
+Simple desktop multi-platform JavaFX ticket management application.
 
 ## MIT LICENCE
 
 https://opensource.org/licenses/MIT
 
-Totaly free to use, modify, sell, etc.
 
 ## FEATURES
 
 - Dashboard/stats
-- Manage products
-- Manage product groups
-- Manage product group variants
+- Manage movies
+- Manage rooms
 - Manage orders
-- Sell and buy type of order
-- Stock preview
+- Manage users
 
 ## INSTALL
 
@@ -39,6 +36,6 @@ The credentials for login are defined in users table in the SQL file placed in t
 By default use following:
 
 ```
-username: b
-pass: b
+email: rafaelescrich@gmail.com
+pass: hmrbbi
 ```

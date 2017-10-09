@@ -64,8 +64,8 @@ public class App extends Application {
 
         mainPane.setLeft(mainMenu);
 
-        primaryStage.setScene(new Scene(mainPane, 800, 600));
-        primaryStage.setTitle("Inventory Management");
+        primaryStage.setScene(new Scene(mainPane, 1024, 768));
+        primaryStage.setTitle("Gerência de Venda de Ticket");
         primaryStage.show();
 
         getInstance().pageSwitcher.showPage("login");
