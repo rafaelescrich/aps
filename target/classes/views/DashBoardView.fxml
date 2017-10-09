@@ -17,7 +17,7 @@
         <Font size="23.0" />
       </font>
     </Label>
-    <Label layoutX="27.0" layoutY="75.0" text="Produtos:">
+    <Label layoutX="27.0" layoutY="75.0" text="Funcionarios">
       <font>
         <Font size="20.0" fx:id="x1" />
       </font>
@@ -32,12 +32,12 @@
         <Color blue="0.875" green="0.875" red="0.875" fx:id="x3" />
       </fill>
     </Rectangle>
-    <Label font="$x1" layoutX="230.0" layoutY="75.0" text="Grupos:" />
+    <Label font="$x1" layoutX="230.0" layoutY="75.0" text="Tipos" />
     <Label fx:id="groupsNumber" font="$x2" layoutX="333.0" layoutY="73.0" text="-" />
     <Rectangle arcHeight="5.0" arcWidth="5.0" fill="$x3" height="71.0" layoutX="421.0" layoutY="52.0" stroke="BLACK" strokeType="INSIDE" width="167.0" />
-    <Label font="$x1" layoutX="431.0" layoutY="74.0" text="Pedidos:" />
+    <Label font="$x1" layoutX="431.0" layoutY="74.0" text="Tickets" />
     <Label fx:id="ordersNumber" font="$x2" layoutX="534.0" layoutY="72.0" text="-" />
-    <BarChart fx:id="ordersChart" barGap="5.0" categoryGap="10.0" layoutX="14.0" layoutY="184.0" legendVisible="false" prefHeight="202.0" prefWidth="572.0" title="Estatísticas dos Pedidos" titleSide="TOP">
+    <BarChart fx:id="ordersChart" barGap="5.0" categoryGap="10.0" layoutX="14.0" layoutY="184.0" legendVisible="false" prefHeight="202.0" prefWidth="572.0" title="Estatísticas dos Tickets" titleSide="TOP">
       <xAxis>
         <CategoryAxis label="Mês" side="BOTTOM" fx:id="x" />
       </xAxis>

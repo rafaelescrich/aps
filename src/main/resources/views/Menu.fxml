@@ -7,27 +7,27 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.paint.*?>
 
-<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="178.0" style="-fx-background-color: #333;&#10;-fx-pref-height: 600px; &#10;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="net.aps.inventory.controllers.MenuController">
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="178.0" style="-fx-background-color: #333;&#10;-fx-pref-height: 600px; &#10;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="net.aps.inventory.controllers.MenuController">
   <children>
     <VBox layoutX="14.0" layoutY="14.0" prefHeight="372.0" prefWidth="150.0">
       <children>
         <Button fx:id="" mnemonicParsing="false" onAction="#dashboardAction" prefHeight="45.0" prefWidth="150.0" text="Dashboard" />
-        <Button id="" fx:id="btnProducts" mnemonicParsing="false" onAction="#openProducts" prefHeight="45.0" prefWidth="150.0" text="Products">
+        <Button id="" fx:id="btnProducts" mnemonicParsing="false" onAction="#openProducts" prefHeight="45.0" prefWidth="150.0" text="Funcionarios">
           <VBox.margin>
             <Insets top="10.0" />
           </VBox.margin>
         </Button>
-        <Button id="" fx:id="btnGroup" mnemonicParsing="false" onAction="#openGroups" prefHeight="45.0" prefWidth="150.0" text="Product Groups">
+        <Button id="" fx:id="btnGroup" mnemonicParsing="false" onAction="#openGroups" prefHeight="45.0" prefWidth="150.0" text="Grupos de funcionarios">
           <VBox.margin>
             <Insets top="10.0" />
           </VBox.margin>
         </Button>
-        <Button id="" mnemonicParsing="false" onAction="#openOrders" prefHeight="45.0" prefWidth="150.0" text="Orders">
+        <Button id="" mnemonicParsing="false" onAction="#openOrders" prefHeight="45.0" prefWidth="150.0" text="Tickets">
           <VBox.margin>
             <Insets top="10.0" />
           </VBox.margin>
         </Button>
-        <Button id="" mnemonicParsing="false" onAction="#openStock" prefHeight="45.0" prefWidth="150.0" text="Stock">
+        <Button id="" mnemonicParsing="false" onAction="#openStock" prefHeight="45.0" prefWidth="150.0" text="Salas">
           <VBox.margin>
             <Insets top="10.0" />
           </VBox.margin>
